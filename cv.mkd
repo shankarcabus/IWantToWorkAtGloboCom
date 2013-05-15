@@ -1,19 +1,68 @@
-Vaga
-====
+# Área de Esporte
 
-[Preencha aqui a vaga que você pretende]
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+## Era uma vez...
+... um garoto de 12 anos que começou a mexer com HTML, fez um site no notepad e se achava o Paul Irish. Ele tentou aprender ASP e CGI, arranhou em algumas coisas mas acabou não levando à diante. Os anos se passaram, ele conheceu o Frontpage, Dreamweaver, Flash, Corel, Photoshop... Mais anos se passaram e ele entrou na faculdade de Sistema de Informação pela Universidade do Estado da Bahia.
 
-CV
-==
+No primeiro semestre da faculdade ele já estagiava, que beleza! Nem tanto! Ele trabalhava com suporte! Ok ok... foi uma fase difícil, de ficar se abaixando mostrando cofrinho, mas pelo menos serviu para ver que não era aquilo que ele queria. Ele queria muito mais, queria trabalhar com sua paixão de infância, a WEB! Então, até que um belo dia, em 2009 pra ser mais preciso, ele teve a oportunidade de sua vida: foi chamado para trabalhar no JusBrasil. Daí em diante, sua vida mudou.
 
-[Preencha aqui o seu cv]
+## Saiba mais
+O garoto da história acima se chama Shankar Cabus. Sou frontender "profissional" há 4 anos do JusBrasil, o maior site jurídico do Brasil (800k acessos/dia). 
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Além do frontend, sou adépto também ao web design (sem preconceitos, por favor) e gosto de ser business owner, ou seja, pensar no produto, pensar em como melhorar ao máximo a experiência do usuário. Por isso o usuário é meu cliente, é ele quem devo agradar e ver sorrindo =D Então estudo UX, design, performance, acessibilidade, etc. Mas claro, é sempre bom aparecer, então nada como dominar SEO ;)
+
+## Workflow em 7 itens
+- Mac OS
+- Chrome (devtools)
+- Sublime Text 2
+- Vagrant (VirtualBox)
+- iTerm2
+- Github
+- Trello
+
+## Tecnologias além do óbvio
+- Python, Flask, Jinja
+- Java, JSP, Servlet
+- Web semântica, RDF, SPARQL
+- SQL
+- Photoshop, Illustrator =)
+- Git (essa é óbvia?)
+
+## Por onde me atualizo/estudo
+- http://css-tricks.com/
+- http://www.smashingmagazine.com/
+- http://cognition.happycog.com/
+- http://net.tutsplus.com/
+- http://csswizardry.com/
+- http://bricss.net/
+- http://24ways.org/
+- http://html5doctor.com/
+- http://webdesignledger.com/
+- http://www.uxdesign.blog.br/
+- http://loopinfinito.com.br/
+- http://tableless.com.br/
+- Twitter + Facebook
+
+Obs: Sou fundador do grupo Frontend Bahia (https://www.facebook.com/groups/frontendbahia), que tem o objetivo de fomentar o frontend no estado, promovendo encontros e eventos locais para compartilhar experiências e conhecimento.
+
+## Quem eu sigo
+- http://paulirish.com/
+- http://chriscoyier.net/
+- http://zenorocha.com/
+- http://bernarddeluna.com/
+
+## Onde me encontrar
+- http://www.linkedin.com/profile/view?id=116334358
+- https://github.com/shankarcabus
+- http://stackoverflow.com/users/980377/shankar-cabus
+- https://www.facebook.com/shankarcabus
+- https://twitter.com/ShankarCabus
+
+## Outros
+Meu principal trabalho e que mais me orgulho é o novo site do JusBrasil, que ajudei a conceber, desenhar, projetar e construir desde o início: http://www.jusbrasil.com (só pra convidado, mas me pede um convite que eu mando ;)
+
+## </html>
+Bem, esse é um resumo de quem sou, o que faço e o que eu amo. Para mais informações, entrar em contato :P
+shankarcabus@gmail.com
+
+# Obrigado
